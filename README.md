@@ -13,3 +13,5 @@ Script em C/C++ (ESP32) para uma Aplicação de IoT Auto-Suficiente para Monitor
 Este trabalho foi melhor descrito em um artigo publicado no 7º Simpósio Internacional de Sistemas de Instrumentação, Circuitos e Transdutores (INSCIT): https://ieeexplore.ieee.org/document/10258484
 
 Para quaisquer perguntas ou sugestões, sinta-se à vontade para entrar em contato através do e-mail: lucasddoliveira1@gmail.com
+
+![grafana](https://github.com/lucasddoliveira/IoT-Self-Sufficient-Pressure-Flow-Monitoring/assets/85253035/766258b9-7410-4bfd-bd36-cac2ce9569c3)
