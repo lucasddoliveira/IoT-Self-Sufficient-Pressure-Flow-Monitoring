@@ -17,3 +17,8 @@ Para quaisquer perguntas ou sugestões, sinta-se à vontade para entrar em conta
 # Cloud Supervisory
 
 ![grafana](https://github.com/lucasddoliveira/IoT-Self-Sufficient-Pressure-Flow-Monitoring/assets/85253035/766258b9-7410-4bfd-bd36-cac2ce9569c3) 
+
+# Some Energy Consumption Results
+
+![download (1)](https://github.com/lucasddoliveira/IoT-Self-Sufficient-Pressure-Flow-Monitoring/assets/85253035/e8963945-1267-4580-ae56-159e1007c40e)
+
