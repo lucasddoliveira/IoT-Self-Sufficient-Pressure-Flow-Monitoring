@@ -20,5 +20,6 @@ Para quaisquer perguntas ou sugestões, sinta-se à vontade para entrar em conta
 
 # Some Energy Consumption Results
 
-![download (1)](https://github.com/lucasddoliveira/IoT-Self-Sufficient-Pressure-Flow-Monitoring/assets/85253035/e8963945-1267-4580-ae56-159e1007c40e)
+![download (1)](https://github.com/lucasddoliveira/IoT-Self-Sufficient-Pressure-Flow-Monitoring/assets/85253035/b03d5b78-1df3-470c-9465-8e3475c93c23)
+
 
