@@ -14,4 +14,6 @@ Este trabalho foi melhor descrito em um artigo publicado no 7º Simpósio Intern
 
 Para quaisquer perguntas ou sugestões, sinta-se à vontade para entrar em contato através do e-mail: lucasddoliveira1@gmail.com
 
-![grafana](https://github.com/lucasddoliveira/IoT-Self-Sufficient-Pressure-Flow-Monitoring/assets/85253035/766258b9-7410-4bfd-bd36-cac2ce9569c3)
+# Cloud Supervisory
+
+![grafana](https://github.com/lucasddoliveira/IoT-Self-Sufficient-Pressure-Flow-Monitoring/assets/85253035/766258b9-7410-4bfd-bd36-cac2ce9569c3) 
